@@ -1,4 +1,4 @@
-# FTY-s-Project
+# Mitu
 Thanks for watching my project!
 This Soft can encrypt/decrypt PNG images.
 I'm a studeng in China, so the The English version of the software may not be accurate. 
